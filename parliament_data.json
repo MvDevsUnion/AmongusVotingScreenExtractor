@@ -1,0 +1,772 @@
+{
+  "totalMembers": 93,
+  "numberOfParties": 6,
+  "leadership": {
+    "speaker": "Abdul Raheem Abdulla",
+    "deputySpeaker": "Ahmed Nazim",
+    "majorityLeader": "Ibrahim Falah",
+    "minorityLeader": "Ibrahim Nazil"
+  },
+  "members": [
+    {
+      "Id": 0,
+      "Name": "Speaker",
+      "Party": "",
+      "Constituency": "",
+      "PhotoUrl": "",
+      "ProfileUrl": ""
+    },
+    {
+      "Id": 1,
+      "name": "Hussain Shareef",
+      "constituency": "Hulhumale' Uthuru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/S8cL1FH911hlyysKuMoun5f401dUCrlfkb8iAXa4.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/175"
+    },
+    {
+      "Id": 2,
+      "name": "Abdulla Shazeem",
+      "constituency": "Hulhumale' Medhu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/HprxQktStn4YF7VIqtWNcawJoNDdODyxDVUjJkWQ.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/176"
+    },
+    {
+      "Id": 3,
+      "name": "Dr. Ahmed Shamheed",
+      "constituency": "Hulhumale' Dhekunu",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/wJ333PB8HpMdJttRqLtbpLLcxR0TeSejDd8JZ340.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/177"
+    },
+    {
+      "Id": 4,
+      "name": "Ahmed Aifan",
+      "constituency": "Henveyru Uthuru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/hXXCTzvqVLvipS4oWrcHNm60ro9coVACIW6dkjXA.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/178"
+    },
+    {
+      "Id": 5,
+      "name": "Hussain Nasih",
+      "constituency": "Medhu Henveyru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/A3R6uYERHgTVGzCPIf490sEFxHyO1hsVeNnHfGub.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/179"
+    },
+    {
+      "Id": 6,
+      "name": "Hussain Imran Latheef",
+      "constituency": "Henveyru Dhekunu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/ARt0dP3Y0b6vtPbGuBf4ZIH4fBNkO6NRyajCPTP4.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/180"
+    },
+    {
+      "Id": 7,
+      "name": "Ali Ibrahim",
+      "constituency": "Henveyru Hulhangu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/BlxD791zTIcWvDMTbqrhIM3yHuqkoNs5Y4MWrLcO.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/181"
+    },
+    {
+      "Id": 8,
+      "name": "Mohamed Ibrahim",
+      "constituency": "Galolhu Uthuru",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/NmkszIpAYXeuFbigLMzUifHZB6ZLHsbKTjXv6gt4.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/182"
+    },
+    {
+      "Id": 9,
+      "name": "Meekail Ahmed Nasym",
+      "constituency": "Galolhu Dhekunu",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/tl35lCvVt6FxehD5THIAD798crc0SXMgi3aTEYaB.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/183"
+    },
+    {
+      "Id": 10,
+      "name": "Ibrahim Muhammad",
+      "constituency": "Mahchangolhi Uthuru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/Ltpw9yOYRTK0xYAVyDABN6WsgUdYb34wj28js9O6.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/184"
+    },
+    {
+      "Id": 11,
+      "name": "Ahmed Xamyr",
+      "constituency": "Mahchangolhi Medhu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/rRiyZwXMyqrEfzVazQgmRtju30RMxiwHgrQJoLym.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/185"
+    },
+    {
+      "Id": 12,
+      "name": "Musthafa Hussain",
+      "constituency": "Mahchangolhi Dhekunu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/nQxPm22NZYyEcMdvNHkyts2wxuFyvVFYi8w669Kl.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/186"
+    },
+    {
+      "Id": 13,
+      "name": "Mohamed Nazim",
+      "constituency": "Maafannu Uthuru",
+      "party": "MNP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/6NViLIlFHLicjL3ZoL5kB3i2rKeZQcW6S8YQIoco.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/187"
+    },
+    {
+      "Id": 14,
+      "name": "Asma Rasheed",
+      "constituency": "Maafannu Medhu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/FSvWvPBzHTclBlcsrpnLsC4inM2FKmaYM09R9E9B.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/188"
+    },
+    {
+      "Id": 15,
+      "name": "Abdulla Rifau",
+      "constituency": "Maafannu Dhekunu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/u2jUtXU0TTJbqIp4mgIy4dzR5FqW3mVQTGZeFqIq.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/189"
+    },
+    {
+      "Id": 16,
+      "name": "Mohamed Musthafa Ibrahim",
+      "constituency": "Maafannu Hulhangu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/oQCV1xDKRQNKGaAuXLDWnQBuym7qGCRatv5qxA9D.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/190"
+    },
+    {
+      "Id": 17,
+      "name": "Mohamed Ismail",
+      "constituency": "Villimale'",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/kICOYvCwhnBt9au53a51uH9h5sdbjpXK6RWSLdR4.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/191"
+    },
+    {
+      "Id": 19,
+      "name": "Ali Moosa",
+      "constituency": "Hoarafushi",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/p8NEPO4GT9YEqIEQhPN7gUo4Eb5WS4nsSEq8jDAj.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/192"
+    },
+    {
+      "Id": 20,
+      "name": "Ahmed Naseer",
+      "constituency": "lhavandhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/9sEwYdiYSeDlANI6ScvKpStDxH97a8nPj17RlBQI.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/193"
+    },
+    {
+      "Id": 21,
+      "name": "Ibrahim Shujau",
+      "constituency": "Baarashu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/hEPDYLQL8LRHN39fsNBlqxVyR2T9r9EQ6QCHthXe.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/194"
+    },
+    {
+      "Id": 22,
+      "name": "Abdul Latheef Mohamed",
+      "constituency": "Dhidhdhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/HvSp3kNdy7N5I4DZjFerXrWKFUKOIozCznMhFPmT.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/195"
+    },
+    {
+      "Id": 23,
+      "name": "Abdulla Shareef",
+      "constituency": "Kelaa",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/aZmXG4ApR0gbyFuOEmv8YmdlsREFR9kLGpSDjkL2.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/196"
+    },
+    {
+      "Id": 24,
+      "name": "Abdul Gafoor Moosa",
+      "constituency": "Hanimaadhoo",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/MiMShY0xEHgu927hBpYfrQTTBFUk3OWCblyWFqf8.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/197"
+    },
+    {
+      "Id": 25,
+      "name": "Mohamed Rasheed",
+      "constituency": "Nolhivaram",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/4SdwAo19lylHhLjlaq8LtrRNYj6jeSU8y0X5EuzG.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/198"
+    },
+    {
+      "Id": 26,
+      "name": "Hussain Ziyad",
+      "constituency": "Vaikaradhoo",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/fzAL0aybIsl3dAGcV1Vi1hQBFJc21DNWJmKGFkmC.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/199"
+    },
+    {
+      "Id": 27,
+      "name": "Mohamed Dawoodh",
+      "constituency": "Kulhudhuffushi Uthuru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/8wtZaGSnBidKiNMxCnc4Aqmx8PPmscZdUx0cNgKH.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/200"
+    },
+    {
+      "Id": 28,
+      "name": "Faruhath Mohamed",
+      "constituency": "Kulhudhuffushi Dhekunu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/bNWnutjSA2r5lvyG06YFsWJbGNuFAdyrUaOD0Tnz.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/201"
+    },
+    {
+      "Id": 29,
+      "name": "Adam Shafeeq",
+      "constituency": "Makunudhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/TCpuAgr41l8WNkF74FczEWISbyEbsnWzHqSHBNAd.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/202"
+    },
+    {
+      "Id": 30,
+      "name": "Ameen Faisal",
+      "constituency": "Kanditheemu",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/6FVGr3RVdxWoehxbmeTbaEmdnDoatbVUKdX8VqHS.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/203"
+    },
+    {
+      "Id": 31,
+      "name": "Hassan Mufeed Abdul Gadir",
+      "constituency": "Milandhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/4X8L2AAM6U788BUX1t9qC6m54RxLBM4AXtfphGro.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/204"
+    },
+    {
+      "Id": 32,
+      "name": "Mohamed Ibrahim",
+      "constituency": "Komandoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/ydhLrsAm4qWhpAxJrk47sVGoNWx2LIs60odkJ2Uv.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/205"
+    },
+    {
+      "Id": 33,
+      "name": "Mohamed Mamdooh",
+      "constituency": "Funadhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/TIYgZDfuQua1HGFU9hNXPau6MsV2wFgqnSk2eDvn.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/206"
+    },
+    {
+      "Id": 34,
+      "name": "Mohamed Afoo Hamid",
+      "constituency": "Kendhikulhudhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/NPgnbGzGKnC6uYYDWUzHOch2uwFIAdHhtzadzlZS.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/207"
+    },
+    {
+      "Id": 35,
+      "name": "Husnee Mubarik",
+      "constituency": "Manadhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/uxvMmu6VnERuNKpfTPPDoSRrYMM4HbzSZqc2x8wc.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/208"
+    },
+    {
+      "Id": 36,
+      "name": "Mohamed Abbas",
+      "constituency": "Velidhoo",
+      "party": "MDA",
+      "photoUrl": "https://majlis.gov.mv/storage/members/8lSGiioAapj0pnZTt7K5FX0R1tfuv7A5L0vyBjhR.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/209"
+    },
+    {
+      "Id": 37,
+      "name": "Abdul Sattar Mohamed",
+      "constituency": "Holhudhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/RVpxQzQHstVDYbla6JRnTRDDWTgvDY0pAMy0uCqh.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/210"
+    },
+    {
+      "Id": 38,
+      "name": "Abdul Latheef Abdul Rahman",
+      "constituency": "Alifushi",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/rZKZjE7noFLHQkeg0r6v2tvrIh1hJOkroUvLmsVa.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/211"
+    },
+    {
+      "Id": 39,
+      "name": "Ibrahim Shifaz",
+      "constituency": "Ungoofaaru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/2O2Is2oGsbgjsdkPUtts0joYKNyDYrlYGGSiGljA.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/212"
+    },
+    {
+      "Id": 40,
+      "name": "Mohamed Ali",
+      "constituency": "Dhuvaafaru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/hFUZ26e8lA3SliiWciKpw7uPPEhvoFRJ8W3Gr37H.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/213"
+    },
+    {
+      "Id": 41,
+      "name": "Ibrahim Falah",
+      "constituency": "Inguraidhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/7i0PWYMdSeB9ea2Sh8dQxoGa1DgK6qKAzdz4amOF.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/214"
+    },
+    {
+      "Id": 42,
+      "name": "Ahmed Zahir",
+      "constituency": "Maduvvari",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/UYX4KewOxTzFAPuTnllyOLxsYdFfbY404ed3RBjE.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/215"
+    },
+    {
+      "Id": 43,
+      "name": "Abdul Hannan Aboobakuru",
+      "constituency": "Thulhaadhoo",
+      "party": "IND",
+      "photoUrl": "https://majlis.gov.mv/storage/members/MXPU22Avy7BsCyv4bWRAWZBKBIgnaVwru7YBBW56.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/216"
+    },
+    {
+      "Id": 44,
+      "name": "Ahmed Saleem",
+      "constituency": "Eydhafushi",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/h2oyJNIDii9wNWFlY7F5Jj69tqjthXZjvtvMNGBy.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/217"
+    },
+    {
+      "Id": 45,
+      "name": "Mauroof Zakir",
+      "constituency": "Kendhoo",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/D1LLpfMQjVuPbEi2TR4SHybXSjuiYMAMxFVcaY4n.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/218"
+    },
+    {
+      "Id": 46,
+      "name": "Mohamed Siruhaan",
+      "constituency": "Hithaadhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/GX5xcHKsSun1Fx5G2H5WC95khaG7G1J3OL0AJOsm.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/219"
+    },
+    {
+      "Id": 47,
+      "name": "Mohamed Abdul Rahman",
+      "constituency": "Hinnavaru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/iPR3r5JGKdlZNzHm96BG253zsWHbaqCViRqsy5jV.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/220"
+    },
+    {
+      "Id": 48,
+      "name": "Yaaseen Abdulla",
+      "constituency": "Naifaru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/1nwSILWH6q4BL8wA1XRyz3kRNVja4Y8aAc96sOQO.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/221"
+    },
+    {
+      "Id": 49,
+      "name": "Mohamed Shamin Habeeb",
+      "constituency": "Kurendhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/P60rng93jJYLzjGqobnkMQUQpi2ULmOSpgqCXT7p.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/222"
+    },
+    {
+      "Id": 50,
+      "name": "Munthazim Ibrahim",
+      "constituency": "Kaashidhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/ceRdzQhnkLnH4rkH93UYpZaTjz6Zm5gie65gTrhz.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/223"
+    },
+    {
+      "Id": 51,
+      "name": "Ibrahim Naseem",
+      "constituency": "Thulusdhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/NZcPy8abGWSxb0RDuHbZmfDpZ2MIyf2lM4vNC2wJ.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/224"
+    },
+    {
+      "Id": 52,
+      "name": "Hussain Riza Adam",
+      "constituency": "Maafushi",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/CaSKl6EZ4TPfkYDrg0e7Rnkga3S7JsrokzCm52Wq.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/225"
+    },
+    {
+      "Id": 53,
+      "name": "Dr. Anara Naeem",
+      "constituency": "Huraa",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/cCXEL8boLaQ1ofqPWPin4Kbv46EtFIt2vFodcswq.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/227"
+    },
+    {
+      "Id": 54,
+      "name": "Hassan Zareer",
+      "constituency": "Mathiveri",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/wR9Ay8EMG0ZizNT72UNbLPrHSk6PaIx2h5poahzY.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/228"
+    },
+    {
+      "Id": 55,
+      "name": "Hussain Sameer",
+      "constituency": "Thoddoo",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/dhrzS1agARC771v5H6mQWD8nR37GjfMsMB0MuJS1.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/230"
+    },
+    {
+      "Id": 56,
+      "name": "Qasim Ibrahim",
+      "constituency": "Maamigili",
+      "party": "JP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/77xqDeGK38rN0b9PSwNpsA1sFWDe6cavAS5rDtGk.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/232"
+    },
+    {
+      "Id": 57,
+      "name": "Ahmed Thariq",
+      "constituency": "Mahibadhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/ZSD2zRjdnIRtDiINjaylKto16u5GSiDvgHsMRZv8.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/234"
+    },
+    {
+      "Id": 58,
+      "name": "Abdulla Rasheed",
+      "constituency": "Dhangethi",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/83vZ3rQIdPcUxWKooG50iqsSO4vINpQELAKjJ0cW.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/235"
+    },
+    {
+      "Id": 59,
+      "name": "Adam Zahir",
+      "constituency": "Felidhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/fD2La3eJ41ejtkn6IRQLcm7K8ovsXfs46voYB9f5.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/236"
+    },
+    {
+      "Id": 60,
+      "name": "Mohamed Niushad",
+      "constituency": "Keyodhoo",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/lX32P2XkNGWaBBbYzL0Wq75gvdEy6yZCCsMXYAc6.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/238"
+    },
+    {
+      "Id": 61,
+      "name": "Ahmed Nazim",
+      "constituency": "Dhiggaru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/XD942ig5TFVuA0ZOBkGSFNiwxCZxp434iRuOoBe5.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/240"
+    },
+    {
+      "Id": 61,
+      "name": "Ibrahim Naufal",
+      "constituency": "Mulaku",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/aavW0VowpC0D1w9eiyB8exogM1l1uWh9qmr7VXkO.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/241"
+    },
+    {
+      "Id": 62,
+      "name": "Ahmed Aslam",
+      "constituency": "Bilehdhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/JxOutDP8QTA0UOIyOolrdi6TZAhGDRs2GMlyKC81.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/243"
+    },
+    {
+      "Id": 63,
+      "name": "Fathimath Sauda",
+      "constituency": "Nilandhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/HQCxGldPqjJLzIYbjgPNppcoYiw6WTyZvJiJdIWf.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/245"
+    },
+    {
+      "Id": 64,
+      "name": "Ahmed Siyam Mohamed",
+      "constituency": "Meedhoo",
+      "party": "MDA",
+      "photoUrl": "https://majlis.gov.mv/storage/members/13LOiT1R8eKQUnFAi3vfensXVzZrhbhaXRnWCDs8.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/246"
+    },
+    {
+      "Id": 65,
+      "name": "Hussain Hameed",
+      "constituency": "Kudahuvadhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/ZDygyhqSl5d7EcaOZdSnR506SzDUJJc6IuKZrvUF.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/248"
+    },
+    {
+      "Id": 66,
+      "name": "Hassan Waheed",
+      "constituency": "Vilifushi",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/jtn9117FnOY9hvUoMzSzBBFPNGaE0LIbYt2lZMLT.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/250"
+    },
+    {
+      "Id": 67,
+      "name": "Ahmed Riyaz",
+      "constituency": "Thimarafushi",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/IojiW3p88cgn6Dr3VazKVyjir8DNzXfLtH1pFomg.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/251"
+    },
+    {
+      "Id": 68,
+      "name": "Ali Ashrag",
+      "constituency": "Kinbidhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/5XWVieEmIrRa5ToJrYRAiHx2mnOYXA30fMLiSwnR.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/253"
+    },
+    {
+      "Id": 69,
+      "name": "Hanan Mohamed Rasheed",
+      "constituency": "Guraidhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/srr8M3ni2zd4iYQG438apESAQpzTOO5TE8aL0iIS.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/254"
+    },
+    {
+      "Id": 70,
+      "name": "Ismail Shafeeu",
+      "constituency": "Isdhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/882LymjXhbYopJlYAsdBc3CBMJcIUS2Bb3fO3t76.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/255"
+    },
+    {
+      "Id": 71,
+      "name": "Yoosuf Nasheed",
+      "constituency": "Gamu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/Ph5kA44nUAvC58XlxtiJlK4I6bXm8ZG1yC8H5MIO.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/257"
+    },
+    {
+      "Id": 72,
+      "name": "Abdul Raheem Abdulla",
+      "constituency": "Fonadhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/dMJKsLsH11rssqGqUc2LTsKIXitbcHNFPmC8YajI.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/259"
+    },
+    {
+      "Id": 73,
+      "name": "Ahmed Shakir",
+      "constituency": "Maavashu",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/26B5uZumMRhSWmOyl9DDUZk2vLY0Rctenk6ZgmkZ.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/260"
+    },
+    {
+      "Id": 74,
+      "name": "Azim Abdul Azeez",
+      "constituency": "Vilingili",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/dWFNwo9iGoG4j5GB9IBhFSQH1ClcKkbPwGANfQBx.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/262"
+    },
+    {
+      "Id": 75,
+      "name": "Mohamed Fazeel",
+      "constituency": "Dhaandhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/4UfYo2q4y6dyl1RbPLhQiZevj41wGyvqFmL9w4sU.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/264"
+    },
+    {
+      "Id": 76,
+      "name": "Asadhulla Shihab",
+      "constituency": "Gemanafushi",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/jmTTap6SJweXdMGjILNEXyA5rJceLwUsPXxwTMzV.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/266"
+    },
+    {
+      "Id": 77,
+      "name": "Ibrahim Didi",
+      "constituency": "Kolamaafushi",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/hu7DiLgnNXGaisXyhjquqYN7JEYuNipRfog3oxBm.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/267"
+    },
+    {
+      "Id": 78,
+      "name": "Saudulla Hilmy",
+      "constituency": "Thinadhoo Uthuru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/Ht7HmoKLdqjaCdWV6iUIil7yRZt7uiPW3tYd7gAs.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/265"
+    },
+    {
+      "Id": 79,
+      "name": "Mohamed Alsan Ahmed",
+      "constituency": "Thinadhoo Dhekunu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/XKszLZhvYx916LX07L0Q9Dc8tG89tUns7OU2if5j.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/263"
+    },
+    {
+      "Id": 80,
+      "name": "Mohamed Shameez",
+      "constituency": "Madaveli",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/ymt2LDIrcGChnYsMITZhS9jDNJM8IuhJ5UTgmIFC.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/261"
+    },
+    {
+      "Id": 81,
+      "name": "Ashraf Rasheed",
+      "constituency": "Faresmaathodaa",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/Sdil1bgJf0nB0nsFg8DtNyKB9vqp0bXRe2qYBdQH.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/258"
+    },
+    {
+      "Id": 82,
+      "name": "Mohamed Ali",
+      "constituency": "Gadhdhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/iAZfTVkoKRfpm9MREQegUB583BWLQeIm0s6jU3NM.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/256"
+    },
+    {
+      "Id": 83,
+      "name": "Hamad Abdulla",
+      "constituency": "Fuvahmulah Uthuru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/4l4nfb3yEHOziL8dBpKKvzCHI0KySHqo0THzlnXI.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/252"
+    },
+    {
+      "Id": 84,
+      "name": "Ali Fazad",
+      "constituency": "Fuvahmulah Medhu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/Nq99gcXSMmUD6bhmgkqFprLT41ODYvynRkC2JskQ.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/249"
+    },
+    {
+      "Id": 85,
+      "name": "Ibrahim Hussain",
+      "constituency": "Fuvahmulah Dhekunu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/1bk8KQO2PkfUPPicrvxPhl01bjbXCutOoHWalvHi.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/247"
+    },
+    {
+      "Id": 86,
+      "name": "Mohamed Shahid",
+      "constituency": "Hulhudhoo",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/oczfSGpPuOp4SGhIAb8j7T1EYb4mCpeBXzsTKHS7.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/244"
+    },
+    {
+      "Id": 87,
+      "name": "Ismail Nizar",
+      "constituency": "Feydhoo Uthuru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/trXooLAyp31GEMo6OzWKr3duzsLlaMrCJv3wJxG3.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/242"
+    },
+    {
+      "Id": 88,
+      "name": "Ibrahim Didi",
+      "constituency": "Feydhoo Dhekunu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/nfkyWxILJinFhF7G0oEZJ0FEmAJ8YadKclwUGdZ9.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/239"
+    },
+    {
+      "Id": 89,
+      "name": "Ahmed Didi",
+      "constituency": "Maradhoo",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/CBGUsWPEUEbXWfVWnHRkRQiEInBQMRYbzktLrcQQ.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/237"
+    },
+    {
+      "Id": 90,
+      "name": "Mohamed Sinan",
+      "constituency": "Hithadhoo Uthuru",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/T3kVS5yDDQwPmSBy6TOj1gdSz7o0C4LsLdJkKynR.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/233"
+    },
+    {
+      "Id": 91,
+      "name": "Ahmed Azaan Marzooq",
+      "constituency": "Hithadhoo Medhu",
+      "party": "PNC",
+      "photoUrl": "https://majlis.gov.mv/storage/members/qWe4pJV10K9uMKWBK7PiYiqfxohNrjSZxfV03SQo.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/231"
+    },
+    {
+      "Id": 92,
+      "name": "Ibrahim Nazil",
+      "constituency": "Hithadhoo Dhekunu",
+      "party": "MDP",
+      "photoUrl": "https://majlis.gov.mv/storage/members/AuqET4joR0k0pLAIr3fm57iboHcedGkP6H62u912.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/229"
+    },
+    {
+      "Id": 93,
+      "name": "AbdulRahman",
+      "constituency": "AdduMeedhoo",
+      "party": "IND",
+      "photoUrl": "https://majlis.gov.mv/storage/members/QrSAHOyjySGGyj0QXjfMnrbFOVxhvThdLGQvATfh.jpg",
+      "profileUrl": "https://majlis.gov.mv/en/20-parliament/members/226"
+    }
+  ],
+  "partyBreakdown": {
+    "PNC": 75,
+    "MDP": 12,
+    "MNP": 1,
+    "MDA": 2,
+    "IND": 2,
+    "JP": 1
+  }
+}
